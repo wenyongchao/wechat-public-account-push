@@ -45,10 +45,10 @@ export const config = {
     }, 
     {
       name: "老婆1", 
-      id: "",
-      useTemplateId: "",
-      province: "",
-      city: "",
+      id: "okY716A3lOxG6mMUscYMeKlqJDP8",
+      useTemplateId: "y7_55JVFbA1uM_3BUF_1vHCKPSaJA4s0WvDRu5zD0n8",
+      province: "四川",
+      city: "成都",
       openUrl: "https://wangxinleo.cn"
     }, 
     {
@@ -127,7 +127,7 @@ export const config = {
     * */
   CUSTOMIZED_DATE_LIST: [
     // 在一起的日子
-    {"keyword": "love_day", date: "2015-05-01"},
+    {"keyword": "love_day", date: "2022-08-13"},
     // 结婚纪念日
     {"keyword": "marry_day", date: "2020-01-04"},
     // 退伍日, 不用可以删掉
